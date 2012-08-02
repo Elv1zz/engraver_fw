@@ -1,0 +1,29 @@
+License information
+===================
+The original arduino-cmake project is licensed under MPL v2.0. The original engraver sources by Christian Nolte are licensed under GPLv3. The MSMotorShield classes are in the public domain. The entirety of this project is licensed under GPLv3.
+
+Section 3.3 [of MPL v2.0] provides indirect compatibility between this license and the GNU GPL version 2.0, the GNU LGPL version 2.1, the GNU AGPL version 3.0, and all later versions of those licenses. When you receive work under MPL 2.0, you may make a “Larger Work” that combines that work with work under those GNU licenses. When you do, section 3.3 gives you permission to distribute the MPL-covered work under the terms of the same GNU licenses, with one condition: you must make sure that the files that were originally under the MPL are still available under the MPL's terms as well. In other words, when you make a combination this way, the files that were originally under the MPL will be dual licensed under the MPL and the GNU license(s). The end result is that the Larger Work, as a whole, will be covered under the GNU license(s). People who receive that combination from you will have the option to use any files that were originally covered by the MPL under that license's terms, or distribute the Larger Work in whole or in part under the GNU licenses' terms with no further restrictions. [see http://www.gnu.org/licenses/license-list.en.html#MPL-2.0]
+
+Files dual-licensed under MPL and GPL
+=====================================
+CMakeLists.txt
+configure
+configure.bat
+README_arduino-cmake (renamed from README.rst
+cmake/ArduinoToolchan.cmake
+cmake/Platform/Arduino.cmake
+examples/* (removed)
+
+Files in public domain
+======================
+engraver/MSMotorShield.h
+engraver/MSMotorShield.cpp
+
+GPL
+===
+You can find the GPL license in LICENSE.GPL
+
+MPL
+===
+You can find the MPL license in LICENSE.MPL
+
